@@ -68,7 +68,6 @@ Case çalışması 4 kod sorusu ve 15 test sorusundan oluşmaktadır.
 
 1. Repository’i klonlayın:  
 
-```bash
 git clone https://github.com/bircany/pusula-fullstack-case.git
 Her bir .cs dosyasını Visual Studio veya dotnet CLI ile çalıştırabilirsiniz:
 
@@ -79,5 +78,7 @@ Notlar
 Kodlar Clean Code prensiplerine uygun olarak yazılmıştır.
 JSON dönüşleri System.Text.Json kullanılarak sağlanmıştır.
 Test soruları, SQL ve LINQ mantığı ile ilgili teorik bilgiler içermektedir.
+
+Unit Testler için ; #https://github.com/bircany/pusula-fullstack-case-unittests
 
 
